@@ -1,0 +1,17 @@
+p{text-indent: 5mm}
+h1{text-align: center}
+.house{float: right}
+.smile{float: right}
+.list{padding-left: 100px}
+.navbar{position: fixed;
+    overflow: hidden;
+    background-color: rgb(190, 185, 185);
+    top:0;
+    width: 100%;
+    color:rgb(104, 5, 2);
+    font-size: 230%;
+    opacity:0.8;
+}
+body{padding-top: 40px}
+html{background-color:lemonchiffon}
+.bird{float: right}
